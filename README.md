@@ -12,12 +12,6 @@
 
 <img width="1677" alt="image" src="https://github.com/npsvip/Hmart/assets/95081538/60000c36-4c1b-45a3-99da-c81451d08061">
 
-
-# H2 console
-<img width="458" alt="image" src="https://github.com/npsvip/begger/assets/95081538/f03147ff-241b-415e-bf5b-2c561a6f902f">
-
-<img width="1678" alt="image" src="https://github.com/npsvip/begger/assets/95081538/2ede27d6-1789-4cd4-a1bf-f5d2b5ddf623">
-
 <img width="1675" alt="image" src="https://github.com/npsvip/Hmart/assets/95081538/ce6429ad-4fb9-48cd-8262-fc7fe82f0a21">
 
 <img width="1678" alt="image" src="https://github.com/npsvip/Hmart/assets/95081538/c71cd934-3c76-477b-8d57-49ebedd609ef">
@@ -26,6 +20,7 @@
 
 <img width="1676" alt="image" src="https://github.com/npsvip/Hmart/assets/95081538/c9ae4a30-ce49-44af-91cf-89d3cbbc97b5">
 
+# H2 console
 
 # 运行命令
 ```
