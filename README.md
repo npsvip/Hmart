@@ -37,6 +37,7 @@ H2 console&nbsp;&nbsp;&nbsp;true 打开<br/>
 H2数据库&nbsp;&nbsp;&nbsp;&nbsp;/mall.mv.db 
 
 # 访问信息
+体验地址&nbsp;&nbsp;&nbsp;&nbsp;https://mall.zwapi.cn<br/>
 前端地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080<br/>
 后端地址&nbsp;&nbsp;&nbsp;&nbsp;http://localhost:8080/admin/<br/>
 后端账户密码&nbsp;&nbsp;随意输入，之后会保存H2数据库<br/>
