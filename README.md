@@ -33,6 +33,9 @@
 # 运行命令
 ```
 docker run -d --name mall --restart=always -p 8080:8080 -e console=true -v /opt/logs/mall/:/opt/logs/mall/ aeert/mall:latest
+
+# arm请使用 aeert/mall:arm 或 aeert/mall:arm64 镜像
+
 ```
 日志目录&nbsp;&nbsp;&nbsp;&nbsp;/opt/logs/mall/<br/>
 H2 console&nbsp;&nbsp;&nbsp;true 打开<br/>
