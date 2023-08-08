@@ -40,6 +40,7 @@ docker run -d --name mall --restart=always -p 8080:8080 -e console=true -v /opt/
 日志目录&nbsp;&nbsp;&nbsp;&nbsp;/opt/logs/mall/<br/>
 H2 console&nbsp;&nbsp;&nbsp;true 打开<br/>
 H2数据库&nbsp;&nbsp;&nbsp;&nbsp;/mall.mv.db 
+上传文件&nbsp;&nbsp;&nbsp;&nbsp;/opt/file/
 
 # 访问信息
 体验地址&nbsp;&nbsp;&nbsp;&nbsp;https://mall.zwapi.cn<br/>
